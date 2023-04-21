@@ -1,0 +1,14 @@
+.based{
+    /* background-color: red; */
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 4px ;
+    
+}
+
+.red {
+    color: red;
+}
